@@ -1,1 +1,1 @@
-Cellular Automata
+Various Cellular Automata
